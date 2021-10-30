@@ -254,7 +254,7 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-landscape Images
 landscape-image-colorization.zip
 *.pdf
 kaggle.json
+.idea/**/*

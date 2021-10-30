@@ -1,6 +1,7 @@
 numpy
-pandas
 tqdm
 scikit-image
-sklearn
-google
+matplotlib
+scikit-learn
+# google
+tensorflow
