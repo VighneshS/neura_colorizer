@@ -5,3 +5,4 @@ matplotlib
 scikit-learn
 # google
 tensorflow
+IPython
